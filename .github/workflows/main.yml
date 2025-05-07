@@ -23,4 +23,4 @@ jobs:
           echo "Hello $MY_ENV"
           echo "Hello $GITHUB_ACTOR"
       - name: Vitest Coverage Report
-        uses: davelosert/vitest-coverage-report-action@v2.8.2
+        uses: davelosert/vitest-coverage-report-action@v2.7.0
